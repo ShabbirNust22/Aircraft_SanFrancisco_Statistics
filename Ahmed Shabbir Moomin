@@ -1,3 +1,2 @@
-import numpy as np # linear algebra
-
-import tensorflow as tf
+Project for San Francisco Airport Statistics in 2013
+Link: Aircraft_Statistics_SanFrancisco.ipynb
